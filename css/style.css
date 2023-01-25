@@ -42,7 +42,7 @@ input[type="text"], input[type="email"], input[type="search"], input[type="passw
 input[type="submit"], input[type="button"], button[type="button"], button[type="submit"] {
   height: 65px;
   border: none;
-  background: #fbc50b;
+  background: #b4346e;
   color: #fff;
   font-weight: 800;
   padding: 0 50px;
@@ -261,7 +261,7 @@ a:hover {
 }
 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
   width: 50px;
-  background: #fbc50b;
+  background: #b4346e;
   opacity: 1;
 }
 
@@ -277,7 +277,7 @@ a:hover {
   z-index: 9;
   right: 0;
   top: 0;
-  background: #fbc50b;
+  background: #b4346e;
   -webkit-transition: all .35s ease-in-out;
   -moz-transition: all .35s ease-in-out;
   -ms-transition: all .35s ease-in-out;
@@ -303,7 +303,7 @@ a:hover {
   z-index: 9;
   left: 0;
   bottom: 0;
-  background: #fbc50b;
+  background: #b4346e;
   -webkit-transition: all .35s ease-in-out;
   -moz-transition: all .35s ease-in-out;
   -ms-transition: all .35s ease-in-out;
@@ -360,7 +360,7 @@ a:hover {
 }
 .search-box .inner form input[type="submit"] {
   height: 70px;
-  background: #009a4e;
+  background: #bbbbbb;
   border: none;
   font-weight: 600;
   padding: 0 60px;
@@ -411,7 +411,7 @@ a:hover {
   margin-bottom: 40px;
 }
 .side-widget .logo img {
-  height: 49px;
+  height: 149px;
 }
 .side-widget .show-mobile {
   display: none;
@@ -440,7 +440,7 @@ a:hover {
 .side-widget .widget-title {
   display: inline-block;
   margin-bottom: 15px;
-  border-bottom: 4px solid #fbc50b;
+  border-bottom: 4px solid #b4346e;
   font-size: 20px;
   font-family: "Oduda";
   padding-bottom: 5px;
@@ -471,7 +471,7 @@ a:hover {
   font-weight: 600;
 }
 .side-widget .social-media li a:hover {
-  color: #fbc50b;
+  color: #b4346e;
 }
 .side-widget .site-menu {
   width: 100%;
@@ -503,7 +503,7 @@ a:hover {
 }
 .side-widget .site-menu ul li a:hover {
   text-decoration: none;
-  color: #fbc50b;
+  color: #b4346e;
 }
 .side-widget small {
   font-size: 11px;
@@ -542,7 +542,7 @@ a:hover {
   content: "";
   width: 100%;
   height: 3px;
-  background: #fbc50b;
+  background: #b4346e;
   position: absolute;
   left: 0;
   bottom: 3px;
@@ -568,7 +568,7 @@ a:hover {
   font-size: 13px;
 }
 .topbar .social-media ul li a:hover {
-  color: #fbc50b;
+  color: #008f0c;
 }
 .topbar .phone {
   display: inline-block;
@@ -585,12 +585,12 @@ a:hover {
   max-width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background: url("../images/pattern-bg.png") center #009a4e;
+  background: url("../images/pattern-bg.png") center #bbbbbb;
   color: #fff;
   background-size: cover;
   position: absolute;
   left: 50%;
-  top: 50px;
+  top: 2%;
   padding: 30px 0;
   transform: translateX(-50%);
   border-radius: 4px;
@@ -637,7 +637,7 @@ a:hover {
   position: absolute;
   left: -20px;
   top: calc(100% + 20px);
-  background: #fbc50b;
+  background: #b4346e;
   padding: 15px 0;
   margin: 0;
   border-radius: 4px;
@@ -657,7 +657,7 @@ a:hover {
   height: 0;
   border-style: solid;
   border-width: 0 6px 6px 6px;
-  border-color: transparent transparent #fbc50b transparent;
+  border-color: transparent transparent #b4346e transparent;
   position: absolute;
   left: 20px;
   top: -6px;
@@ -689,7 +689,7 @@ a:hover {
   content: "";
   width: 0;
   height: 3px;
-  background: #fbc50b;
+  background: #b4346e;
   position: absolute;
   left: 50%;
   bottom: -5px;
@@ -701,7 +701,7 @@ a:hover {
 }
 .navbar .site-menu ul li a:hover {
   text-decoration: none;
-  color: #fbc50b;
+  color: #b4346e;
 }
 .navbar .site-menu ul li a:hover:after {
   width: 100%;
@@ -781,7 +781,7 @@ a:hover {
   display: inline-block;
   padding: 0 50px;
   border-radius: 6px;
-  background: #fbc50b;
+  background: #b4346e;
   color: #000;
   font-family: "Oduda";
   font-size: 15px;
@@ -793,7 +793,7 @@ a:hover {
 }
 .header .main-slider .swiper-slide .slide-inner a:hover {
   color: #fff;
-  background: #009a4e;
+  background: #bbbbbb;
   text-decoration: none;
   transform: translateY(-5px);
 }
@@ -818,7 +818,7 @@ a:hover {
   transition: all .35s ease-in-out;
 }
 .header .button-prev:hover {
-  background: #fbc50b;
+  background: #b4346e;
   border-color: transparent;
 }
 .header .button-next {
@@ -842,7 +842,7 @@ a:hover {
   transition: all .35s ease-in-out;
 }
 .header .button-next:hover {
-  background: #fbc50b;
+  background: #b4346e;
   border-color: transparent;
 }
 .header .parallax-element {
@@ -948,7 +948,7 @@ a:hover {
   content: "";
   width: 100%;
   height: 3px;
-  background: #fbc50b;
+  background: #b4346e;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -971,7 +971,7 @@ a:hover {
   display: inline-block;
   padding: 0 50px;
   border-radius: 6px;
-  background: #fbc50b;
+  background: #b4346e;
   color: #000;
   font-family: "Oduda";
   -webkit-transition: all .35s ease-in-out;
@@ -983,7 +983,7 @@ a:hover {
 }
 .custom-button:hover {
   color: #fff;
-  background: #009a4e;
+  background: #bbbbbb;
   text-decoration: none;
   transform: translateY(-5px);
 }
@@ -1000,7 +1000,7 @@ a:hover {
 }
 .section-title.text-left h6 {
   display: inline-block;
-  border-bottom: 3px solid #fbc50b;
+  border-bottom: 3px solid #b4346e;
 }
 .section-title figure {
   width: 100%;
@@ -1052,7 +1052,7 @@ a:hover {
   border-bottom: 20px;
 }
 .side-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #fbc50b;
+  background: #b4346e;
   opacity: 1;
 }
 .side-slider .note-box {
@@ -1064,7 +1064,7 @@ a:hover {
   left: -50px;
   bottom: 100px;
   z-index: 1;
-  color: #009a4e;
+  color: #bbbbbb;
   font-family: "Oduda";
   font-size: 30px;
   padding: 20px 30px;
@@ -1097,12 +1097,12 @@ a:hover {
 }
 .side-content h2 {
   font-size: 80px;
-  color: #009a4e;
+  color: #bbbbbb;
   font-family: "Oduda";
 }
 .side-content h5 {
   font-size: 36px;
-  color: #009a4e;
+  color: #bbbbbb;
   font-family: "Oduda";
   margin-bottom: 30px;
 }
@@ -1144,7 +1144,7 @@ a:hover {
   line-height: 100px;
   text-align: center;
   font-size: 28px;
-  color: #009a4e;
+  color: #bbbbbb;
   background: #fff;
   border-radius: 50%;
   position: absolute;
@@ -1161,7 +1161,7 @@ a:hover {
   width: 75%;
   display: flex;
   flex-wrap: wrap;
-  background: #009a4e;
+  background: #bbbbbb;
   color: #fff;
   position: absolute;
   right: 30px;
@@ -1177,7 +1177,7 @@ a:hover {
   height: 0;
   border-style: solid;
   border-width: 0 15px 20px 0;
-  border-color: transparent transparent #009a4e transparent;
+  border-color: transparent transparent #bbbbbb transparent;
   position: absolute;
   top: -20px;
   left: 30px;
@@ -1258,7 +1258,7 @@ a:hover {
   display: block;
   margin-bottom: 20px;
   font-size: 36px;
-  color: #009a4e;
+  color: #bbbbbb;
   font-family: "Oduda";
 }
 .image-content-box figure {
@@ -1311,7 +1311,7 @@ a:hover {
 .image-caption-box .content small {
   display: inline-block;
   line-height: 1;
-  border-bottom: 3px solid #fbc50b;
+  border-bottom: 3px solid #b4346e;
   margin-bottom: 10px;
 }
 .image-caption-box .content h5 {
@@ -1388,7 +1388,7 @@ a:hover {
 .carousel-image-box .content small {
   display: inline-block;
   line-height: 1;
-  border-bottom: 3px solid #fbc50b;
+  border-bottom: 3px solid #b4346e;
   margin-bottom: 10px;
 }
 .carousel-image-box .content h5 {
@@ -1410,7 +1410,7 @@ a:hover {
   opacity: 0.1;
 }
 .carousel-image-box .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #009a4e;
+  background: #bbbbbb;
   opacity: 1;
 }
 
@@ -1425,7 +1425,7 @@ a:hover {
   width: 100%;
   display: block;
   font-size: 90px;
-  color: #009a4e;
+  color: #bbbbbb;
   font-family: "Oduda";
   line-height: 1;
   margin-bottom: 20px;
@@ -1456,7 +1456,7 @@ a:hover {
   transition: all .35s ease-in-out;
 }
 .icon-box:hover {
-  background: #fbc50b;
+  background: #b4346e;
   border-color: transparent;
 }
 .icon-box:hover figure {
@@ -1513,7 +1513,7 @@ a:hover {
   content: "";
   width: 100px;
   height: 1px;
-  background: #fbc50b;
+  background: #b4346e;
   position: absolute;
   right: -65px;
   top: 75px;
@@ -1627,7 +1627,7 @@ a:hover {
   display: block;
   font-size: 30px;
   font-family: "Oduda";
-  color: #009a4e;
+  color: #bbbbbb;
   margin-bottom: 20px;
 }
 
@@ -1650,7 +1650,7 @@ a:hover {
   content: "";
   width: 100%;
   height: 3px;
-  background: #fbc50b;
+  background: #b4346e;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1710,7 +1710,7 @@ a:hover {
   font-size: 15px;
 }
 .experts-slider figure figcaption ul li a:hover {
-  color: #fbc50b;
+  color: #b4346e;
 }
 .experts-slider .swiper-pagination {
   position: static;
@@ -1736,7 +1736,7 @@ a:hover {
   content: "";
   width: 100%;
   height: 3px;
-  background: #fbc50b;
+  background: #b4346e;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1767,7 +1767,7 @@ a:hover {
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
 .accordion .card .card-header a:hover {
-  color: #fbc50b;
+  color: #b4346e;
   text-decoration: none;
 }
 .accordion .card .card-body {
@@ -1779,7 +1779,7 @@ a:hover {
 }
 .accordion .card [aria-expanded="true"] {
   color: #212529 !important;
-  background: #fbc50b;
+  background: #b4346e;
   border-color: transparent !important;
 }
 
@@ -1848,7 +1848,7 @@ a:hover {
 .services-list-box h2 {
   font-size: 50px;
   font-family: "Oduda";
-  color: #009a4e;
+  color: #bbbbbb;
   line-height: 1;
   margin-bottom: 20px;
 }
@@ -1902,11 +1902,11 @@ a:hover {
   transform: translateX(-50%);
 }
 .cd-horizontal-timeline .events a.older-event::after {
-  border-color: #fbc50b;
+  border-color: #b4346e;
 }
 .cd-horizontal-timeline .events a.selected::after {
-  background: #fbc50b;
-  border-color: #fbc50b;
+  background: #b4346e;
+  border-color: #b4346e;
 }
 .cd-horizontal-timeline .events a {
   font-size: 19px;
@@ -1917,13 +1917,13 @@ a:hover {
   text-decoration: none;
 }
 .cd-horizontal-timeline .events a.older-event {
-  color: #fbc50b;
+  color: #b4346e;
 }
 .cd-horizontal-timeline .events a.selected {
-  color: #fbc50b;
+  color: #b4346e;
 }
 .cd-horizontal-timeline .filling-line {
-  background: #fbc50b;
+  background: #b4346e;
 }
 .cd-horizontal-timeline .timeline {
   width: 100%;
@@ -2046,7 +2046,7 @@ a:hover {
   position: absolute;
   right: -80px;
   top: 0;
-  background: #009a4e;
+  background: #b4346e;
 }
 
 /* LATEST NEWS */
@@ -2082,7 +2082,7 @@ a:hover {
   height: 30px;
   line-height: 32px;
   display: inline-block;
-  background: #fbc50b;
+  background: #b4346e;
   color: #000;
   position: absolute;
   left: 10px;
@@ -2146,7 +2146,7 @@ a:hover {
   background: #000;
 }
 .carousel-testimonials .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #009a4e;
+  background: #bbbbbb;
 }
 
 .testimonial {
@@ -2154,7 +2154,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   padding: 70px;
-  background: #009a4e;
+  background: #bbbbbb;
   color: #fff;
   position: relative;
   z-index: 2;
@@ -2166,7 +2166,7 @@ a:hover {
   height: 0;
   border-style: solid;
   border-width: 0 0 20px 15px;
-  border-color: transparent transparent #009a4e transparent;
+  border-color: transparent transparent #bbbbbb transparent;
   position: absolute;
   left: -15px;
   top: 20%;
@@ -2262,7 +2262,7 @@ a:hover {
   opacity: 1;
 }
 .highlight-slider .custom-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #fbc50b;
+  background: #b4346e;
   border-color: transparent;
   color: #000;
 }
@@ -2306,7 +2306,7 @@ a:hover {
   height: 30px;
   line-height: 32px;
   float: left;
-  background: #fbc50b;
+  background: #b4346e;
   color: #000;
   padding: 0 15px;
   border-radius: 6px;
@@ -2353,7 +2353,7 @@ a:hover {
 .blog-post .post-content blockquote {
   width: 100%;
   display: block;
-  background: #009a4e;
+  background: #bbbbbb;
   padding: 30px;
   color: #fff;
 }
@@ -2390,7 +2390,7 @@ a:hover {
   border-bottom: 1px solid #eee;
   font-size: 24px;
   font-weight: 800;
-  color: #009a4e;
+  color: #bbbbbb;
   font-family: "Oduda";
   padding-top: 10px;
   padding-bottom: 30px;
@@ -2401,7 +2401,7 @@ a:hover {
   content: "";
   width: 60px;
   height: 1px;
-  background: #009a4e;
+  background: #bbbbbb;
   position: absolute;
   left: 0;
   bottom: -1px;
@@ -2427,7 +2427,7 @@ a:hover {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #009a4e;
+  background: #bbbbbb;
   position: absolute;
   left: 0;
   top: 9px;
@@ -2559,10 +2559,10 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   padding-top: 100px;
-  background: url("../images/pattern-bg.png") center #009a4e;
+  background: url("../images/pattern-bg.png") center #bbbbbb;
   background-size: cover;
   color: #fff;
-  border-top: 3px solid #fbc50b;
+  border-top: 3px solid #b4346e;
 }
 .footer .logo {
   width: 100%;
@@ -2604,7 +2604,7 @@ a:hover {
 .footer .widget-title {
   display: inline-block;
   margin-bottom: 25px;
-  border-bottom: 4px solid #fbc50b;
+  border-bottom: 4px solid #b4346e;
   font-size: 20px;
   font-family: "Oduda";
   padding-bottom: 5px;
@@ -2634,7 +2634,7 @@ a:hover {
   margin-left: auto;
 }
 .footer .footer-bottom span:last-child a {
-  color: #fbc50b;
+  color: #b4346e;
   text-decoration: underline;
 }
 
